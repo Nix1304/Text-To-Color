@@ -72,5 +72,5 @@ def generate_rand_color():
 
 
 # print(generate_rand_color())
-to_image('[Verse 1] Modem talking, modern walking in the streets New desire Take me higher, lift me higher with your speed I need fire  [Pre-Chorus]')
+to_image('Text to coding')
 print(from_image(Image.open('output.png')))
